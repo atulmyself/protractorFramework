@@ -1,0 +1,44 @@
+{
+  "uid" : "2dbe4171ff9b397",
+  "name" : "Open Login page test",
+  "fullName" : "Login page test.Open Login page test",
+  "historyId" : "10f5014f26096e45339af1b85ba7123d",
+  "time" : {
+    "start" : 1595315545643,
+    "stop" : 1595315555378,
+    "duration" : 9735
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login page test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Login page test"
+  }, {
+    "name" : "package",
+    "value" : "Login page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dbe4171ff9b397.json",
+  "parameterValues" : [ ]
+}

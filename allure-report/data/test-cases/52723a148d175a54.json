@@ -1,0 +1,78 @@
+{
+  "uid" : "52723a148d175a54",
+  "name" : "Open Login page test",
+  "fullName" : "Login page test.Open Login page test",
+  "historyId" : "10f5014f26096e45339af1b85ba7123d",
+  "time" : {
+    "start" : 1595326036363,
+    "stop" : 1595326047857,
+    "duration" : 11494
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login page test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Login page test"
+  }, {
+    "name" : "package",
+    "value" : "Login page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e4f631ae81743882",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595319509321,
+        "stop" : 1595319516498,
+        "duration" : 7177
+      }
+    }, {
+      "uid" : "175923d3d255bfcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595319129438,
+        "stop" : 1595319139341,
+        "duration" : 9903
+      }
+    }, {
+      "uid" : "2dbe4171ff9b397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595315545643,
+        "stop" : 1595315555378,
+        "duration" : 9735
+      }
+    }, {
+      "uid" : "52407985a7de20c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595310293642,
+        "stop" : 1595310310185,
+        "duration" : 16543
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52723a148d175a54.json",
+  "parameterValues" : [ ]
+}

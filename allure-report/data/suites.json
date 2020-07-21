@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login page test",
+    "children" : [ {
+      "name" : "Open Login page test",
+      "uid" : "52723a148d175a54",
+      "parentUid" : "363ca9bbceaa188c149124179ca6153a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595326036363,
+        "stop" : 1595326047857,
+        "duration" : 11494
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "363ca9bbceaa188c149124179ca6153a"
+  } ]
+}

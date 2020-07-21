@@ -1,0 +1,11 @@
+[ {
+  "uid" : "52723a148d175a54",
+  "name" : "Open Login page test",
+  "time" : {
+    "start" : 1595326036363,
+    "stop" : 1595326047857,
+    "duration" : 11494
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
