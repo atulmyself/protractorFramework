@@ -8,7 +8,7 @@ describe('Login page test', function() {
         loginpage.enter_email('amit@yopmail.com');
         loginpage.enter_password('Pass@1234');
         loginpage.btn_submit();
-       browser.sleep(10000);
+       browser.sleep(4000);
        loginpage.verify("Dashboard");
     });
 
