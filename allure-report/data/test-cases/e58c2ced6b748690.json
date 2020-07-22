@@ -1,12 +1,12 @@
 {
-  "uid" : "2dbe4171ff9b397",
+  "uid" : "e58c2ced6b748690",
   "name" : "Open Login page test",
   "fullName" : "Login page test.Open Login page test",
   "historyId" : "10f5014f26096e45339af1b85ba7123d",
   "time" : {
-    "start" : 1595315545643,
-    "stop" : 1595315555378,
-    "duration" : 9735
+    "start" : 1595327475111,
+    "stop" : 1595327482042,
+    "duration" : 6931
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -39,6 +39,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2dbe4171ff9b397.json",
+  "source" : "e58c2ced6b748690.json",
   "parameterValues" : [ ]
 }

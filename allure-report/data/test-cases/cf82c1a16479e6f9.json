@@ -1,12 +1,12 @@
 {
-  "uid" : "175923d3d255bfcc",
-  "name" : "Open Login page test",
-  "fullName" : "Login page test.Open Login page test",
-  "historyId" : "10f5014f26096e45339af1b85ba7123d",
+  "uid" : "cf82c1a16479e6f9",
+  "name" : "should list todos",
+  "fullName" : "angularjs homepage todo list.should list todos",
+  "historyId" : "d3300c751a52b956070f01bd63fabf07",
   "time" : {
-    "start" : 1595319129438,
-    "stop" : 1595319139341,
-    "duration" : 9903
+    "start" : 1595327487115,
+    "stop" : 1595327489408,
+    "duration" : 2293
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,16 +17,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "Login page test"
+    "value" : "angularjs homepage todo list"
   }, {
     "name" : "testClass",
-    "value" : "Login page test"
+    "value" : "angularjs homepage todo list"
   }, {
     "name" : "testMethod",
-    "value" : "Open Login page test"
+    "value" : "should list todos"
   }, {
     "name" : "package",
-    "value" : "Login page test"
+    "value" : "angularjs homepage todo list"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -39,6 +39,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "175923d3d255bfcc.json",
+  "source" : "cf82c1a16479e6f9.json",
   "parameterValues" : [ ]
 }

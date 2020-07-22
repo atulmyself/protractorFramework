@@ -1,2 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jul 21 15:37:16 IST 2020","Tue Jul 21 15:37:27 IST 2020","11494","","Login page test","","Login page test","Open Login page test","Open Login page test",""
+"passed","Wed Jul 22 09:33:32 IST 2020","Wed Jul 22 09:33:35 IST 2020","2674","","angularjs homepage todo list","","angularjs homepage todo list","should add a todo","should add a todo",""
+"passed","Wed Jul 22 09:33:30 IST 2020","Wed Jul 22 09:33:32 IST 2020","2397","","angularjs homepage todo list","","angularjs homepage todo list","should list todos","should list todos",""
+"passed","Wed Jul 22 09:32:52 IST 2020","Wed Jul 22 09:33:15 IST 2020","22721","","Login page test","","Login page test","Open Login page test","Open Login page test",""
+"failed","Wed Jul 22 09:33:15 IST 2020","Wed Jul 22 09:33:30 IST 2020","15002","","angularjs homepage","","angularjs homepage","should greet the named user","should greet the named user",""

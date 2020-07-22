@@ -1,10 +1,40 @@
 [ {
-  "uid" : "52723a148d175a54",
+  "uid" : "b7979baf1b64a60d",
+  "name" : "should greet the named user",
+  "time" : {
+    "start" : 1595390595446,
+    "stop" : 1595390610448,
+    "duration" : 15002
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ab608734927fcec",
   "name" : "Open Login page test",
   "time" : {
-    "start" : 1595326036363,
-    "stop" : 1595326047857,
-    "duration" : 11494
+    "start" : 1595390572715,
+    "stop" : 1595390595436,
+    "duration" : 22721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b521810dfd3d944",
+  "name" : "should add a todo",
+  "time" : {
+    "start" : 1595390612846,
+    "stop" : 1595390615520,
+    "duration" : 2674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dba405e6b9dafcb1",
+  "name" : "should list todos",
+  "time" : {
+    "start" : 1595390610448,
+    "stop" : 1595390612845,
+    "duration" : 2397
   },
   "status" : "passed",
   "severity" : "normal"

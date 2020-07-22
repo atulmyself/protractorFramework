@@ -1,0 +1,54 @@
+{
+  "uid" : "dba405e6b9dafcb1",
+  "name" : "should list todos",
+  "fullName" : "angularjs homepage todo list.should list todos",
+  "historyId" : "d3300c751a52b956070f01bd63fabf07",
+  "time" : {
+    "start" : 1595390610448,
+    "stop" : 1595390612845,
+    "duration" : 2397
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should list todos"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf82c1a16479e6f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595327487115,
+        "stop" : 1595327489408,
+        "duration" : 2293
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dba405e6b9dafcb1.json",
+  "parameterValues" : [ ]
+}

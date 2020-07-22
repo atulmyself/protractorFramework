@@ -1,0 +1,54 @@
+{
+  "uid" : "b521810dfd3d944",
+  "name" : "should add a todo",
+  "fullName" : "angularjs homepage todo list.should add a todo",
+  "historyId" : "9304ad3ed4d1cd88464866ff880f111d",
+  "time" : {
+    "start" : 1595390612846,
+    "stop" : 1595390615520,
+    "duration" : 2674
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a todo"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2deb7e5c2ff519a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595327489408,
+        "stop" : 1595327492188,
+        "duration" : 2780
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b521810dfd3d944.json",
+  "parameterValues" : [ ]
+}

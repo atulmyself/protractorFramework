@@ -3,13 +3,52 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "Open Login page test",
-    "uid" : "52723a148d175a54",
+    "uid" : "1ab608734927fcec",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1595326036363,
-      "stop" : 1595326047857,
-      "duration" : 11494
+      "start" : 1595390572715,
+      "stop" : 1595390595436,
+      "duration" : 22721
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should greet the named user",
+    "uid" : "b7979baf1b64a60d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1595390595446,
+      "stop" : 1595390610448,
+      "duration" : 15002
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should list todos",
+    "uid" : "dba405e6b9dafcb1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595390610448,
+      "stop" : 1595390612845,
+      "duration" : 2397
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should add a todo",
+    "uid" : "b521810dfd3d944",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595390612846,
+      "stop" : 1595390615520,
+      "duration" : 2674
     },
     "flaky" : false,
     "newFailed" : false,

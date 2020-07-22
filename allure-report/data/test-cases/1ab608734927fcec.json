@@ -1,12 +1,12 @@
 {
-  "uid" : "e4f631ae81743882",
+  "uid" : "1ab608734927fcec",
   "name" : "Open Login page test",
   "fullName" : "Login page test.Open Login page test",
   "historyId" : "10f5014f26096e45339af1b85ba7123d",
   "time" : {
-    "start" : 1595319509321,
-    "stop" : 1595319516498,
-    "duration" : 7177
+    "start" : 1595390572715,
+    "stop" : 1595390595436,
+    "duration" : 22721
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -33,12 +33,22 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e58c2ced6b748690",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595327475111,
+        "stop" : 1595327482042,
+        "duration" : 6931
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e4f631ae81743882.json",
+  "source" : "1ab608734927fcec.json",
   "parameterValues" : [ ]
 }
